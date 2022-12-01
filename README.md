@@ -15,7 +15,7 @@
 **A GUI based text editor.**
 **You can perform different tasks like saving, opening a file and changing the font color or size also.**
 
-<img src="Text%20Editor/Screenshot_filemenu.png" width="400">                <img src="Text%20Editor/Screenshot_editmenu.png" width="400">
+<img src="Text%20Editor/Screenshot_filemenu.png" width="400">                <img align="right" src="Text%20Editor/Screenshot_editmenu.png" width="400">
 
 # 4. Simple Calculator
 **A GUI based calcultor.**
@@ -26,4 +26,4 @@
 # 5. Tic Tac Toe
 **A GUI based Tic Tac Toe Game.**
 
-<img src="TicTacToe/Screenshot_playing.png" width="400">                               <img src="TicTacToe/Screenshot_winner.png" width="400">
+<img src="TicTacToe/Screenshot_playing.png" width="400">                               <img align="right" src="TicTacToe/Screenshot_winner.png" width="400">
